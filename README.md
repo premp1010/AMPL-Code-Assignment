@@ -1,4 +1,4 @@
-# AMPL-Code-Assignment
+# AMPL Code Assignment
 Problem Overview
 The goal is to maximize the total benefit from two production plants:
 
