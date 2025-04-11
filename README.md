@@ -24,8 +24,8 @@ Open LP.ipynb or the updated LP_modified.ipynb
 Execute each cell to define, solve, and visualize the LP model.
 
 
-Output:
-This plot shows the feasible region and optimal solution for a linear programming problem involving two plants. The shaded blue area represents all combinations of outputs from Plant 1 (x₁) and Plant 2 (x₂) that satisfy the constraints:
+# Output:
+Output plot shows the feasible region and optimal solution for a linear programming problem involving two plants. The shaded blue area represents all combinations of outputs from Plant 1 (x₁) and Plant 2 (x₂) that satisfy the constraints:
 
 x₁ ≤ 4 (green vertical line)
 
